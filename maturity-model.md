@@ -7,7 +7,7 @@ This is a self-assessment guidance tool for organizations to evaluate the maturi
 Tier | Content
 ------------ | -------------
 0 | IDC Minimalization > Project Formation using Socio-Economic Lens & #DifferentTogether Pledge
-1 | Test product/service for minorities: BIPOC, LGBTQIA2S+, Non-Binary, People with Disabilities
+1 | Test product/service for minorities: BIPOC, LGBTQIA2S+, Non-Binary, People with Disabilities, Residents in Rural areas
 CI  | Check in - Substantial analysis completed for all groups?
 2 | IDC Acceptance > Intersect product/service analysis with privacy and security
 CI | Check in - 
