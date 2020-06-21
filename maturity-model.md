@@ -2,6 +2,7 @@
 
 This is a self-assessment guidance tool for organizations to evaluate the maturity of their services and offerings with respect to diverse groups. It is meant to offer a path towards achieving the best possible services for all peoples.
 
+
 ## AI Service
 
 Tier | Content
