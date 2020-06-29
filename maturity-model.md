@@ -7,18 +7,13 @@ This is a self-assessment guidance tool for organizations to evaluate the maturi
 
 Tier | Content
 ------------ | -------------
-0 | IDC Minimalization > Project Formation using Socio-Economic Lens and #DifferentTogether Pledge
-1 | Test product/service for minorities: BIPOC, LGBTQIA2S+, Gender Identity, People with Disabilities, Neuro-Diverse, Residents in Rural areas
-CI  | Check in - Substantial analysis completed for all groups?
-2 | IDC Acceptance > Intersect product/service analysis with privacy and security components, network infrastructure and both semantics and syntax of language
-CI | Check in - Test: Where do intersections collide with minority groups? Revist with respective experts/consultants if so
-3 | Run language script through inclusive language application and inclusive visuals [ie all age generations, people with colour-blindness, Braille enabled]
-CI | Is the chosen language absent of us/them concept, anti-oppression, and inclusive for all groups?
-4 |When tested against legislation, ie Indian Act, Multicultural Act, etc., where is friction? Test: 4 I's of Oppression; Risk Analysis in product/service decision making
-CI | Check in: Resolve frictions with respective experts/consultants
-5 | 
-<br>
-<br>
+0 | [Denial] Product/Service has not been tested with various minority groups (BIPOC, LGBTQIA2S, Gender Divsere, People with Disabilities, Neuro-Diverse, Residents of Rual Areas), numerous privacy breaches have been reported, demograpic data (race, gender and immigration) isn't considered in decision making, data isn't clean nor secure, a basic language script is utilized, and record management policies aren't followed.
+1 | [Polarization] Minimal feedback is collected from minorities, consultation with records unit is in process, race based data is considered, preference for assimilation is prevalent in decisions, binary approach is followed for decisions rather than intersectional approach, and numberous exemptions are needed for AI to function adequately.
+2 | [Minimalization] Use of Produce/Service highlights oppressive policies and law, privacy and security, as well as network infrastructure; semantics and syntax of primary language accommodates mainly majority group, and at most, minimal minority groups. Consultation for anti-oppressive language is in progress and data analysts are engaged for optimizing clean and race based data, process for feedback begins and complex decision making is in development.
+3 | [Acceptance] Product/Service integrates equity ethics, privacy and security intersects with many miniority groups, anti-oppression language accommodates most miniority groups, process for feedback is implemented, sophisticated tests for complex decisions is developed, more data sets are utilized and collaboration of countermeasures of organization wide incidents are in progress.
+4 | Product/Service provides rationale of decision to user, tests of primary langauge demonstrates positve outcomes, translations begins, tests for visuals begin, countermeasures generates positive outcomes, assessment for UN Declarations commences
+5 | [Adaption] AI is anti-oppression, equitable, meets public standards, business objective and United Nation Declarations.
+
 <br> <b>Acronyms</b><br>
 <br>
 <b>IDC</b> = Intercultural Development Continuum<br> 
