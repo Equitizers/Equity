@@ -14,9 +14,10 @@ Tier | Content
 4 | Product/Service provides rationale of decision to user, tests of primary langauge demonstrates positve outcomes, translations begins, tests for visuals begin, countermeasures generates positive outcomes, assessment for UN Declarations commences.
 5 | [Adaption] AI's working group consists of numerous representatives of miniority groups, the product/service is anti-oppression, equitable, meets public standards, business objective and United Nation Declarations.
 
-<br> <b>Acronyms</b><br>
-<br>
-<b>IDC</b> = Intercultural Development Continuum<br> 
-https://idiinventory.com/generalinformation/the-intercultural-development-continuum-idc/</br><br>
-<b>BIPOC</b> = Black, Indigenious, People of Colour<<br><br>
-<b>LGBTIQA2S+</b> = Lesbian, Gay, TransGender, Intersex, Queer and/or Questioning, Asexual, 2-Spirited, More Affirming Identities
+## Acronyms and Links
+
+[**IDC**](https://idiinventory.com/generalinformation/the-intercultural-development-continuum-idc/) = **I**ntercultural **D**evelopment **C**ontinuum
+
+[**BIPOC**](https://www.thebipocproject.org/) = **B**lack, **I**ndigenous, **P**eople **o**f **C**olour
+
+**LGBTQIA2S+** = **L**esbian, **G**ay, **B**isexual, **T**ransGender, **Q**ueer and/or Questioning, **I**ntersex, **A**sexual, **2**-**S**pirited, More Affirming Identities (**+**)
