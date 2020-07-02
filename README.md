@@ -21,3 +21,17 @@ Tier | Mindset | Content
 [**BIPOC**](https://www.thebipocproject.org/) = **B**lack, **I**ndigenous, **P**eople **o**f **C**olour
 
 **LGBTQIA2S+** = **L**esbian, **G**ay, **B**isexual, **T**ransGender, **Q**ueer and/or Questioning, **I**ntersex, **A**sexual, **2**-**S**pirited, More Affirming Identities (**+**)
+
+## Attributions
+
+### Cloud Pathfinder Team
+
+[Shivagani Murti](https://github.com/zoyavit), KeAng Lead and Technical Administrator
+
+[Mystery Person](https://i.gifer.com/20Pi.gif), Product Owner
+
+[Derek Roberts](https://github.com/derekroberts), DevOps Specialst
+
+### Thanks
+
+Coming soon!
