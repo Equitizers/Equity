@@ -24,7 +24,7 @@ Tier | Mindset | Content
 
 ## Attributions
 
-### Cloud Pathfinder Team
+### Our Team
 
 [Shivagani Murti](https://github.com/zoyavit), KeAng Lead and Technical Administrator
 
