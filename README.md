@@ -26,11 +26,11 @@ Tier | Mindset | Content
 
 ### Our Team
 
-[Shivagani Murti](https://github.com/zoyavit), KeAng Lead and Technical Administrator
+[Shivagani Murti](https://github.com/zoyavit), Product Owner
 
-[Mystery Person](https://i.gifer.com/20Pi.gif), Product Owner
+[Julian Subda](https://github.com/actionanalytics), Framework SME
 
-[Derek Roberts](https://github.com/derekroberts), DevOps Specialst
+[Derek Roberts](https://github.com/derekroberts), Technical SME
 
 ### Thanks
 
