@@ -2,17 +2,6 @@
 
 This is a sample intersectional profile.
 
-Term | Identify
------------- | -------------
-Sex | Non-binary
-Gender | Transgender, female appearance
-Orientation | Straight
-Ethnicity | Afridan
-Age | 42
-Status | Divorced
-Children | 2
-Pronouns | They, Them, Theirs
-
 ## Ola Austin
 
 Ola Austin is a Person of African Descent of 42-year-old, trans non-binary provincial government worker who identifies as queer. Due to their past, filled with turbulence because of numerous discriminatory incidents and events, they have high anxiety, deep depression, post-traumatic stress disorder and low scale paranoia. There is one specific hate crime they have never recovered from: two white, cisgendered females pushed and cornered Ola into an alleyway shortly after their transition and assaulted them. In that incident, the responding constables stated, “there’s no way two tiny chicks did that to you”, which led Ola to believe that a stereotype of females being gentle was being applied on the attackers.
