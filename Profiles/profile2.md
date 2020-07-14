@@ -2,6 +2,17 @@
 
 This is a fictional intersectional profile.
 
+Term | Identify
+------------ | -------------
+Sex | Male
+Gender | Cisgender
+Orientation | Straight
+Ethnicity | Caucasian
+Age | 35
+Status | Divorced
+Children | 4
+Pronouns | He, Him, His
+
 ## Clay Davenport
 
 Clay Davenport, a straight, cisgender white male, enjoys a moderately successful career as an entrepreneur at age 35. As he works in the tech sector, his working environment always changes, requiring constant training and vigilance on technology trends to remain employed and relevant. His circle of friends has greatly diminished in recent years as he goes through his greatest struggle: a messy divorce.

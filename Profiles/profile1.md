@@ -1,6 +1,17 @@
 # Intersectional Profile #1
 
-This is a sample intersectional profile.
+This is a fictional intersectional profile.
+
+Term | Identify
+------------ | -------------
+Sex | Non-binary
+Gender | Transgender, female appearance
+Orientation | Straight
+Ethnicity | Afridan
+Age | 42
+Status | Divorced
+Children | 2
+Pronouns | They, Them, Theirs
 
 ## Ola Austin
 
