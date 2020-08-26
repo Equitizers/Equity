@@ -21,7 +21,7 @@ Tier | Mindset | Content
 
 **LGBTQIA2S+** = **L**esbian, **G**ay, **B**isexual, **T**ransGender, **Q**ueer and/or Questioning, **I**ntersex, **A**sexual, **2**-**S**pirited, More Affirming Identities (**+**)
 
-BIPOC, LGBTQIA2S, Gender Diverse, People with Disabilities, Neuro-Diverse, Residents of Rual Areas
+
 ## Attributions
 
 ### Our Team
