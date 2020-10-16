@@ -3,7 +3,7 @@
 This is a framework for organizations to evaluate the maturity of their services and offerings with respect to diverse groups and systems thinking. Diverse groups includes, but never limited to, BIPOC, LGBTQIA2S+, Nerodivergent, People with Disabilities, Socio-Economic status, Rural Residents, and Gender Diverse Folx. It is meant to offer a path towards achieving the best possible services for all peoples, therefore the Model uses the Intercultural Continuum Model as a foundation.
 
 
-## Tech Product
+## Tech Service/Product
 
 ## 1.1 Privacy, Security and Data
 Tier | Mindset | Content
